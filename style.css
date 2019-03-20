@@ -1,0 +1,68 @@
+body{
+  background-color: black;
+}
+button{
+  background-color: white;
+  height: 250px;
+  width: 250px;
+  font-size: 200px;
+}
+#a{
+  position: absolute;
+  left: 250px;
+  top: 150px;
+}
+#b{
+  position: absolute;
+  left: 525px;
+  top: 150px;
+}
+#c{
+  position: absolute;
+  left: 800px;
+  top: 150px;
+}
+#d{
+  position: absolute;
+  left: 250px;
+  top: 425px;
+}
+#e{
+  position: absolute;
+  left: 525px;
+  top: 425px;
+}
+#f{
+  position: absolute;
+  left: 800px;
+  top: 425px;
+}
+#g{
+  position: absolute;
+  left: 250px;
+  top: 700px;
+}
+#h{
+  position: absolute;
+  left: 525px;
+  top: 700px;
+}
+#i{
+  position: absolute;
+  left: 800px;
+  top: 700px;
+}
+#win2{
+  position: absolute;
+  top: 382px;
+  left: 271px;
+  font-size: 100px;
+  color: yellow;
+}
+#win{
+  position: absolute;
+  top: 385px;
+  left: 275px;
+  font-size: 100px;
+  color: red;
+}
