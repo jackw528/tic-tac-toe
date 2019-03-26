@@ -1,11 +1,12 @@
 body{
-  background-color: black;
+  background-color: #0066FF;
 }
 button{
   background-color: white;
   height: 250px;
   width: 250px;
   font-size: 200px;
+  color: #0066FF;
 }
 #a{
   position: absolute;
@@ -54,15 +55,30 @@ button{
 }
 #win2{
   position: absolute;
-  top: 382px;
-  left: 271px;
+  top: 384px;
+  left: 274px;
   font-size: 100px;
-  color: yellow;
+  color: black;
 }
 #win{
   position: absolute;
   top: 385px;
   left: 275px;
   font-size: 100px;
-  color: red;
+  color: #FF0099;
+}
+#playAgain{
+  height: 125px;
+  width: 125px;
+  position: absolute;
+  left: 1075px;
+  top: 487.5px;
+  font-size: 40px;
+}
+h1{
+  position: absolute;
+  left: 520px;
+  top: 25px;
+  font-size: 50px;
+  color: white;
 }
