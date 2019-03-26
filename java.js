@@ -18,6 +18,7 @@ let fClicked = false;
 let gClicked = false;
 let hClicked = false;
 let iClicked = false;
+
 function buttonA(){
   if(x == 1){
     document.getElementById("a").innerHTML = "X";
@@ -171,6 +172,7 @@ function buttonI(){
   }
   check();
 }
+
 function check(){
   if(a == 1 && b == 1 && c == 1){
     xWin();
@@ -208,6 +210,7 @@ function check(){
     tie();
   }
 }
+
 function xWin(){
   document.getElementById("win").innerHTML = "Player X has won!"
   document.getElementById("win2").innerHTML = "Player X has won!"
