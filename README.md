@@ -3,3 +3,6 @@
 ### - HTML (24 lines)
 ### - CSS (85 lines)
 ### - Javascript (311 lines)
+## Creators
+### Jack Weiss
+### Michael Huss
