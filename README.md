@@ -6,3 +6,5 @@
 ## Creators
 ### Jack Weiss
 ### Michael Huss
+## Link to GitHub Pages
+### https://jackw528.github.io/tic-tac-toe/
